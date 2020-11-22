@@ -68,7 +68,7 @@ print(f"File Extension is : {fileext}")
 filename = open("test.txt","r")
 print(filename.readlines()[1])
 filename.close()"""
-
+#for loop program
 from Student import Student
 Student1 = Student("Ganesh",8.3)
 print(Student1.gpa)
